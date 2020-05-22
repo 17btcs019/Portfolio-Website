@@ -320,11 +320,11 @@ div[class^='bar-']{
 form input,
 form textarea{
 	display: block;
-	width:450px;
+	width:300px;
 	padding: 10px;
 	background-color: #252627;
 	border: 1px solid #48CFAD;
-	margin:20px 0;
+	margin:20px;
 	outline: none;
 	font-size: 1rem;
 	color: #fff;
@@ -340,7 +340,7 @@ right:50%;
 	z-index: 0;
 	color: #48CFAD;
 	opacity: 0.5;
-	margin-top:100px;
+	margin-top:200px;
 }
 
 .contact h3{

@@ -122,9 +122,9 @@ main{
 	
 
 }
-.text h5{
+.text h6{
 	color: #fff;
-	font-size: 50px;
+	font-size: 45px;
 l
 
 }
@@ -252,7 +252,6 @@ letter-spacing: 1px;
 }
 .skills h1{
 	font-size: 7.3rem;
-	margin-right:20px;
 	color: #48CFAD;
 	opacity: 0.5;
 	text-align: right;

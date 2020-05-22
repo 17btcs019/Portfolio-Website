@@ -161,7 +161,7 @@
           </ul>
         </div>
         <h5> Leave a message</h5>
-        <form>
+        <form id ="myForm">
           <input type="text" name ="name" placeholder="Full name">
           <input type="email" placeholder="Email">
 <input type="email" placeholder="amulyakathasagaram@gmail.com" disabled>
@@ -175,6 +175,12 @@
 </div>
 </div>
 
-
+<script>
+  const myForm =document.getElementById("myForm");
+  
+  myForm.addEventListener("submit",(e) =>{
+    e.preventDefault();
+    console.log("Form has been submitted!");
+  });
   </body>
 </html>

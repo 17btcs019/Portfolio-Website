@@ -385,10 +385,11 @@ margin-top: 40px;
     padding: 0;
     margin: 0;
     display: flex;
-   left: 40%;
-	right: 60%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 	 margin-top: 30px;
-transform:translateX(-50%);
+
 
 }
 .social-menu ul li {

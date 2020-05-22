@@ -336,6 +336,10 @@ left:50%;
 right:50%;
 
 }
+form input:last-child{
+	border:none;
+	cursor:pointer;
+}
 
 .contact h3{
 	font-size: 6rem;

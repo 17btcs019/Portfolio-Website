@@ -189,7 +189,7 @@ letter-spacing: 1px;
 	height: 100vh;
 	margin-top: 300px;
 }
-.about h1{
+.about h3{
 	font-size: 7rem;
 	z-index: 0;
 	color: #48CFAD;
@@ -250,7 +250,7 @@ letter-spacing: 1px;
 .skills{
 	height: 100vh;
 }
-.skills h1{
+.skills h3{
 	font-size: 7rem;
 	color: #48CFAD;
 	opacity: 0.5;
@@ -337,7 +337,7 @@ right:50%;
 
 }
 
-.contact h1{
+.contact h3{
 	font-size: 7.0rem;
 	z-index: 0;
 	color: #48CFAD;

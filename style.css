@@ -385,9 +385,11 @@ margin-top: 40px;
     padding: 0;
     margin: 0;
     display: inline-flex;
-   left: 40%;
-	 right: 60%;
+   left: 50%;
+	 right: 50%;
 	 margin-top: 30px;
+	width:100%;
+	
 }
 .social-menu ul li {
     list-style: none;

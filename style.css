@@ -190,7 +190,7 @@ letter-spacing: 1px;
 	margin-top: 300px;
 }
 .about h1{
-	font-size: 7.3rem;
+	font-size: 7rem;
 	z-index: 0;
 	color: #48CFAD;
 	opacity: 0.5;
@@ -251,7 +251,7 @@ letter-spacing: 1px;
 	height: 100vh;
 }
 .skills h1{
-	font-size: 7.3rem;
+	font-size: 7rem;
 	color: #48CFAD;
 	opacity: 0.5;
 	text-align: right;
@@ -336,10 +336,11 @@ right:50%;
 }
 
 .contact h1{
-	font-size: 7.3rem;
+	font-size: 7.0rem;
 	z-index: 0;
 	color: #48CFAD;
 	opacity: 0.5;
+	margin-top:100px;
 }
 
 .contact h3{
@@ -387,7 +388,7 @@ margin-top: 40px;
    left: 40%;
 	right: 60%;
 	 margin-top: 30px;
-
+transform:translateX(-50%);
 
 }
 .social-menu ul li {

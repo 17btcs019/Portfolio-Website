@@ -383,12 +383,11 @@ margin-top: 40px;
 .social-menu ul {
    position: absolute;
     padding: 0;
-    margin: 0;
     display: inline-flex;
    left: 50%;
 	 right: 50%;
 	 margin-top: 30px;
-	width:100%;
+	width:50%;
 	transform:translateX(-20%);
 }
 .social-menu ul li {

@@ -320,7 +320,7 @@ div[class^='bar-']{
 form input,
 form textarea{
 	display: block;
-	width:300px;
+	width:450px;
 	padding: 10px;
 	background-color: #252627;
 	border: 1px solid #48CFAD;
